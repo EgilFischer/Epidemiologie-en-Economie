@@ -1,0 +1,15 @@
+#WC6
+# Tools-Import Dataset - From text File... kies katten.txt
+attach(katten)
+# De commandos voor survival analyse zijn niet automatisch bekend in R. 
+# Eerst moet de survival library geladen worden 
+library(survival)
+# Nu moet R verteld worden dat de afhankelijke variabele een combinatie is van de variable tijd
+# en de variabele die aan geeft of er een event is geweest of een censurering op dat tijdstip. Dus we maken 
+# om in R-termen te spreken een survival object met Surv(tijd,tumor) en gebruiken dat als afhankelijke
+# variabele in de survfit functie die dan de Kaplan Meier-tabel uitrekent:
+fit=survfit(Surv(tijd,tumor)~1)
+summary(fit)
+#Om de KM-grafiek te krijgen en de onder- en bovengrens van de betrouwbaarheidsintervallen:
+plot(fit)
+detach(katten)
