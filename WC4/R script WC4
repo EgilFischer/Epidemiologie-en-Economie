@@ -1,0 +1,52 @@
+#WC4
+# Tools-Import Dataset - From text File... kies Display11.1
+attach(Display11.1)
+# de scatterplot xlab en ylab geven de labels op de assen
+plot(Bodywt,Htgirth,xlab="Heart girth (cm)",ylab="Body weight (kg)",pch=20,col="red")
+fit=glm(Bodywt~Age+Htgirth+Height+Length+Sex+Umbgth,family="gaussian")
+summary(fit)
+# in de kolom 'estimate' staan de intercept (Intercept) en de slopes; 
+# in de kolom 'Std.Error' staan de standard errors. 
+# In de volgende kolom staan de t-toetsen daarna de p-waardes (Pr(>|t|)). 
+# Vergelijk met display 11.1 op blz 154 van het boek
+#
+#
+# Om R^2 (kwadraat van de correlatie) uit te rekenen:
+1-(fit$deviance/fit$null.deviance)
+# 95% Betrouwbaarheidsintervallen voor de parameters:
+confint(fit)
+#############
+# Om  de kwadraatsommen te krijgen gebruiken we drop1. 
+drop1(fit,test="F")
+# 
+# De residuen en de predicted values (de punten op de lijn) krijg je door
+residuals(fit)
+predict(fit)
+# dus figuur 11.1 krijg je
+plot(Htgirth,residuals(fit),xlab="Chest girth (cm)",ylab="Residuals (kg)",pch=20,col="red")
+plot(predict(fit),residuals(fit),xlab="Predicted values (cm)",ylab="Residuals (kg)",pch=20,col="red")
+#
+# Om te zien of er afwijkingen zijn van de normaliteit gebruiken we een normal probability plot. 
+# Deze plot residuen tegen wat verwacht mag worden als de residuen normaal verdeeld zouden zijn.
+# Als de residuen uit een normale verdeling komen zal dus deze plot punten laten zien,
+# die op een rechte lijn liggen,
+qqnorm(residuals(fit))
+abline(0,sd(residuals(fit)))
+#
+detach(Display11.1)
+#
+# anova met indicator variabelen
+#
+attach(Table8.1)
+fit=glm(Calc~factor(Group))
+summary(fit)
+# in de regel factor(group)2 staat in de kolom estimate, het verschil in gemiddelde tussen groep 2 en 1
+# in de regel factor(group)3 staat in de kolom estimate, het verschil in gemiddelde tussen groep 3 en 1
+# nu een regressie met 2 indicatoren. Eerst maken we de groep2 en groep 3 indicatoren:
+?"==" # help over ==
+gr2=1*(Group==2) # indicator variabele voor groep 2
+gr3=1*(Group==3) # indicator variabele voor groep 3
+fit.i=glm(Calc~gr2+gr3)
+summary(fit.i)
+#vergelijk met de anova uitvoer (fit)
+detach(Table8.1)
