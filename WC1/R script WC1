@@ -1,0 +1,15 @@
+###################
+# WC1
+
+install.packages("epibasix") #deze regel code alleen bij de eerste keer
+library(epibasix) # dit doe je elke R-sessie waarin je deze library gebruikt
+# voorbeeld blz.57/58 van Petrie&Watson
+# zet 4 getallen (c(42,259,13,288)) in een matrix met 2 kolommen 
+# (ncol=2) en vul regel voor regel (byrow=TRUE):
+bse=matrix(c(42,259,13,288),ncol=2,byrow=TRUE)
+bse
+#Bepalen van de associatiematen en hun betrouwbaarheidsintervallen:
+bse.ep=epi2x2(bse,alpha=0.05)
+summary(bse.ep)
+# NB: deze library hanteert een andere definitie van H0 en H1 dan je gewend 
+# bent. 
