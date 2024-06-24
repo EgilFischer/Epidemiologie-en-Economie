@@ -1,0 +1,40 @@
+#WC3
+# Tools-Import Dataset - From text File... kies Table8.1.txt 
+attach(Table8.1)
+# Om duidelijk te maken dat de getallen in de kolom Group geen numerieke waarden voorstellen
+# maar labels/groepen zijn, gebruiken we factor(Group). Wat R dan precies doet komt in een later werkcollege.
+# Eerst de data plotten
+plot(factor(Group),Calc,xlab="Diet supplement",ylab="Calculus index")
+# of
+boxplot(Calc~Group,xlab="Diet supplement",ylab="Calculus index")
+# gemiddelden en standaard afwijkingen zie display 8.1 blz  108
+?tapply # helpinformatie
+tapply(Calc,Group,mean)  # berekent het gemiddelde van Calc per Group
+tapply(Calc,Group,sd)
+fit=glm(Calc~factor(Group))
+#############
+# Om  de kwadraatsommen te krijgen gebruiken we drop1. 
+drop1(fit,test="F")
+# Dit werkt net als bij de regressie:
+# 1.) een model met een constante en Group. Dit is het volledige model. Er gaat dan dus 
+# geen variabele er uit dus drop is dan none. Dit is de eerste regel. De residukwadraatsom is 3.1120
+# 2.) een model waaruit Group is weggelaten, dus een model met alleen een constante erin. 
+# De residukwadraatsom van dit model is SS-totaal. Hier zitten de effecten van Group nog in. Omdat Group niet in het model zit, wordt hier ook geen kwadraatsom voor uitgerekend. 
+# Dus in de res. kwadraatsom uit de eerste regel zitten geen Group effecten meer, in de res. kwadraatsom
+# uit de tweede regel nog wel. Het verschil geeft dus de kwadraatsom voor group. 
+# Nu is de anova table te maken. Zie ook Display 8.1 op blz 108.
+
+# Ook van dit model kan je de residuen en de predicted values (de groepsgemiddelden) krijgen door
+residuals(fit)
+predict(fit)
+# en de grafische relatie tussen predicted values en de residuen met
+plot(predict(fit),residuals(fit),xlab="Predicted values (cm)",ylab="Residuals (kg)",pch=20,col="red")
+#
+# Om te zien of er afwijkingen zijn van de normaliteit gebruiken we weer een normal probability plot. 
+# Deze zet de geobserveerde residuen af tegen de verwachte residuen als de residuen normaal verdeeld zouden zijn.
+# Als de residuen uit een normale verdeling komen zal dus deze plot punten laten zien
+# die op een rechte lijn liggen.
+qqnorm(residuals(fit))
+abline(0,sd(residuals(fit)))
+#
+detach(Table8.1)
