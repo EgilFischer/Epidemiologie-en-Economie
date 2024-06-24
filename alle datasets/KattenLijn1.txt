@@ -1,0 +1,232 @@
+Ras	Geslacht	Gewicht	Hpscore	PUscore	Verkregen	AndereKatten	 Beweging 	LftEig	LengteEig	GewEig	GeslachtEig	Huishouden	BMI	LftKatDec	BMI25	HPobesitas	PUobesitas
+Kruising/ander ras/onbekend	Gesteriliseerde poes	9,4	Overgewicht/Obesitas	7	Asiel	Geen andere katten	Nee, alleen binnenshuis	47	176	0	Vrouw	E‚n persoon		3,6		1	1
+Kruising/ander ras/onbekend	Gesteriliseerde poes	6,2	Overgewicht/Obesitas	7	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	54	170	73	Vrouw	Meer dan twee personen	25,3	6,6	1	1	1
+Kruising/ander ras/onbekend	Poes	2,6	Ondergewicht	5	Fokker van raskatten	Geen andere katten	Nee, alleen binnenshuis	25	177	88	Vrouw	Twee personen	28,1	0,4	1	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3	Ondergewicht	2	Gekregen (van bekenden)	2 of meer andere katten	Ook buiten de tuin	53	175	65	Vrouw	Twee personen	21,2	18	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	5,7	Overgewicht/Obesitas	9	Anders, namelijk ...	1 andere kat	Ook buiten de tuin	50	158	93	Vrouw	Twee personen	37,3	4,3	1	1	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	2,5	Ideaal gewicht	4	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	52	170	75	Man	Meer dan twee personen	26	7,2	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,1	Overgewicht/Obesitas	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	20	170	56	Vrouw	Twee personen	19,4	11,7	0	1	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,2	Overgewicht/Obesitas	7	Zelf gefokt	1 andere kat	Ook buiten de tuin	48	176	60	Vrouw	Meer dan twee personen	19,4	5,3	0	1	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,9	Overgewicht/Obesitas	6	Gekregen (van bekenden)	1 andere kat	Nee, alleen binnenshuis	19	180	78	Man	Meer dan twee personen	24,1	6	0	1	1
+Maine Coon	Gesteriliseerde poes	4,4	Ondergewicht	5	Anders, namelijk ...	Geen andere katten	Ook buiten de tuin	55	163	73	Vrouw	Meer dan twee personen	27,5	8,2	1	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,6	Ideaal gewicht	5	Aan komen lopen/gevonden	1 andere kat	Ook buiten de tuin	24	179	80	Vrouw	Twee personen	25	1,4	0	0	0
+Kruising/ander ras/onbekend	Gecastreerde kater	6,9	Overgewicht/Obesitas	7	Fokker van raskatten	1 andere kat	Eigen tuin of binnenplaats	18	170	62	Vrouw	Meer dan twee personen	21,5	12,3	0	1	1
+Siamees	Poes	4,5	Ideaal gewicht	5	Asiel	1 andere kat	Ook buiten de tuin	25	172	62	Vrouw	E‚n persoon	21	2	0	0	0
+Maine Coon	Gesteriliseerde poes	6,1	Ideaal gewicht	6	Fokker van raskatten	1 andere kat	Eigen tuin of binnenplaats	54	169	65	Vrouw	Meer dan twee personen	22,8	11,7	0	0	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	2,6	Ondergewicht	2	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	20	173	64	Vrouw	Meer dan twee personen	21,4	16,6	0	0	0
+Gewone huiskat/Europese korthaar	Poes	2,7	Ideaal gewicht	4	Zelf gefokt	2 of meer andere katten	Ook buiten de tuin	63	174	72	Man	Meer dan twee personen	23,8	1,3	0	0	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	4,7	Ideaal gewicht	6	Aan komen lopen/gevonden	Geen andere katten	Ook buiten de tuin	54	185	85	Man	Meer dan twee personen	24,8	8,1	0	0	1
+Britse Korthaar	Gecastreerde kater	4	Ideaal gewicht	5	Fokker van raskatten	2 of meer andere katten	Ook buiten de tuin	22	169	63	Vrouw	Meer dan twee personen	22,1	7,1	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,6	Ideaal gewicht	5	Asiel	Geen andere katten	Ook buiten de tuin	50	162	61	Vrouw	Twee personen	23,2	7,4	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,5	Ideaal gewicht	6	Asiel	Geen andere katten	Ook buiten de tuin	46	174	68	Vrouw	Meer dan twee personen	22,5	10,7	0	0	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	3,4	Ideaal gewicht	5	Gekregen (van bekenden)	1 andere kat	Kat komt nooit binnenshuis	52	164	85	Vrouw	Meer dan twee personen	31,6	4	1	0	0
+Gewone huiskat/Europese korthaar	Poes	3,3	Ondergewicht	3	Gekregen (van bekenden)	2 of meer andere katten	Ook buiten de tuin	50	196	89	Man	Meer dan twee personen	23,2	14	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,7	Ideaal gewicht	6	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	19	163	75	Vrouw	Meer dan twee personen	28,2	13,4	1	0	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,1	Overgewicht/Obesitas	5	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	64	175	53	Vrouw	Twee personen	17,3	3,7	0	1	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,4	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	49	172	77	Vrouw	Meer dan twee personen	26	4,7	1	0	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	3,2	Ondergewicht	3	Asiel	Geen andere katten	Nee, alleen binnenshuis	26	172	70	Vrouw	E‚n persoon	23,7	13,3	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,2	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Eigen tuin of binnenplaats	18	160	53	Vrouw	Meer dan twee personen	20,7	4,5	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,5	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	17	180	64	Vrouw	Meer dan twee personen	19,8	12,4	0	0	0
+Gewone huiskat/Europese korthaar	Poes	4,8	Ideaal gewicht	4	Zelf gefokt	2 of meer andere katten	Kat komt nooit binnenshuis	73	162	65	Vrouw	Twee personen	24,8	2	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,3	Ideaal gewicht	5	Anders, namelijk ...	Geen andere katten	Ook buiten de tuin	25	185	75	Man	Meer dan twee personen	21,9	4	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	6,1	Overgewicht/Obesitas	6	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	14	167	51	Vrouw	Meer dan twee personen	18,3	2,3	0	1	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4	Ideaal gewicht	5	Zelf gefokt	1 andere kat	Ook buiten de tuin	20	170	68	Vrouw	Meer dan twee personen	23,5	9	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,2	Ideaal gewicht	5	Anders, namelijk ...	2 of meer andere katten	Ook buiten de tuin	21	175	70	Vrouw	Meer dan twee personen	22,9	1,5	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	7,5	Overgewicht/Obesitas	6	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	20	185	80	Man	Meer dan twee personen	23,4	4,5	0	1	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,2	Ideaal gewicht	6	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	20	170	68	Vrouw	Meer dan twee personen	23,5	10,7	0	0	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,8	Ideaal gewicht	6	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	17	180	60	Man	Meer dan twee personen	18,5	7,5	0	0	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,1	Ideaal gewicht	6	Aan komen lopen/gevonden	1 andere kat	Ook buiten de tuin	14	172	58	Man	Meer dan twee personen	19,6	3,3	0	0	1
+Kruising/ander ras/onbekend	Kater	6,9	Ideaal gewicht	5	Fokker van raskatten	2 of meer andere katten	Eigen tuin of binnenplaats	46	170	66	Vrouw	Meer dan twee personen	22,8	4,1	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,7	Overgewicht/Obesitas	7	Anders, namelijk ...	2 of meer andere katten	Eigen tuin of binnenplaats	60	170	65	Vrouw	Meer dan twee personen	22,5	7,5	0	1	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	2,2	Weet niet/niet te bepalen	4	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	24	183	78	Vrouw	Meer dan twee personen	23,3	13,2	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,3	Ideaal gewicht	6	Gekregen (van bekenden)	1 andere kat	Nee, alleen binnenshuis	26	164	53	Vrouw	Twee personen	19,7	2,4	0	0	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,5	Overgewicht/Obesitas	6	Aan komen lopen/gevonden	Geen andere katten	Ook buiten de tuin	72	172	69	Man	Twee personen	23,3	4,2	0	1	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,8	Ideaal gewicht	6	Asiel	Geen andere katten	Ook buiten de tuin	19	160	52	Vrouw	Twee personen	20,3	8,1	0	0	1
+Gewone huiskat/Europese korthaar	Poes	3	Ondergewicht	3	Aan komen lopen/gevonden	2 of meer andere katten	Kat komt nooit binnenshuis	55	164	72	Man	Meer dan twee personen	26,8	3	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,5	Ideaal gewicht	5	Anders, namelijk ...	1 andere kat	Ook buiten de tuin	22	173	73	Man	Meer dan twee personen	24,4	15,7	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	5,5	Overgewicht/Obesitas	7	Gekregen (van bekenden)	2 of meer andere katten	Ook buiten de tuin	48	170	65	Vrouw	Meer dan twee personen	22,5	9	0	1	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,1	Ondergewicht	2	Anders, namelijk ...	Geen andere katten	Ook buiten de tuin	18	178	68	Vrouw	Meer dan twee personen	21,5	11	0	0	0
+Gewone huiskat/Europese korthaar	Kater	1,9	Ondergewicht	2	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	21	175	76	Vrouw	Meer dan twee personen	24,8	0,3	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,9	Ideaal gewicht	5	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	19	174	70	Vrouw	Meer dan twee personen	23,1	9,5	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	3,5	Weet niet/niet te bepalen	6	Gekregen (van bekenden)	2 of meer andere katten	Ook buiten de tuin	49	187	105	Man	Meer dan twee personen	30	2,5	1	0	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,3	Overgewicht/Obesitas	6	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	50	181	69	Man	Meer dan twee personen	21,1	6	0	1	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,5	Ideaal gewicht	5	Asiel	2 of meer andere katten	Nee, alleen binnenshuis	20	181	60	Vrouw	Twee personen	18,3	13,3	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,7	Ideaal gewicht	5	Asiel	1 andere kat	Ook buiten de tuin	18	170	77	Vrouw	Meer dan twee personen	26,6	7,2	1	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	5	Overgewicht/Obesitas	7	Asiel	1 andere kat	Balkon	22	164	63	Vrouw	Twee personen	23,4	1,3	0	1	1
+Kruising/ander ras/onbekend	Poes	3,1	Ideaal gewicht	6	Aan komen lopen/gevonden	2 of meer andere katten	Kat komt nooit binnenshuis	57	180	85	Man	Meer dan twee personen	26,2	0,6	1	0	1
+Kruising/ander ras/onbekend	Poes	1,5	Ondergewicht	4	Zelf gefokt	1 andere kat	Kat komt nooit binnenshuis	53	176	93	Vrouw	Twee personen	30	2,3	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,3	Weet niet/niet te bepalen	4	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	18	175	62	Vrouw	Meer dan twee personen	20,2	7	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,8	Ideaal gewicht	6	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	40	187	84	Man	Meer dan twee personen	24	9,1	0	0	1
+Kruising/ander ras/onbekend	Gesteriliseerde poes	2,6	Ideaal gewicht	4	Fokker van raskatten	1 andere kat	Nee, alleen binnenshuis	41	174	75	Vrouw	Twee personen	24,8	8,6	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	5	Overgewicht/Obesitas	6	Asiel	1 andere kat	Balkon	22	164	63	Vrouw	Twee personen	23,4	1,3	0	1	1
+Kruising/ander ras/onbekend	Gesteriliseerde poes	3,8	Ideaal gewicht	4	Gekregen (van bekenden)	2 of meer andere katten	Ook buiten de tuin	21	175	75	Vrouw	Meer dan twee personen	24,5	10,5	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,6	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	50	173	64	Vrouw	Meer dan twee personen	21,4	3,1	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,5	Ideaal gewicht	7	Asiel	Geen andere katten	Ook buiten de tuin	18	179	64	Vrouw	Meer dan twee personen	20	10,5	0	0	1
+Pers	Gecastreerde kater	4,3	Ideaal gewicht	5	Asiel	Geen andere katten	Ook buiten de tuin	18	162	70	Vrouw	Meer dan twee personen	26,7	3,3	1	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,1	Ondergewicht	3	Zelf gefokt	Geen andere katten	Ook buiten de tuin	57	165	78	Vrouw	E‚n persoon	28,7	8,2	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	6,1	Overgewicht/Obesitas	6	Zelf gefokt	1 andere kat	Ook buiten de tuin	54	192	88	Man	Meer dan twee personen	23,9	13,3	0	1	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,5	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	48	169	73	Vrouw	Meer dan twee personen	25,6	12,1	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,5	Overgewicht/Obesitas	5	Aan komen lopen/gevonden	1 andere kat	Ook buiten de tuin	28	167	55	Vrouw	Twee personen	19,7	5,4	0	1	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	3	Ondergewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	47	172	73	Vrouw	Meer dan twee personen	24,7	10	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,3	Ideaal gewicht	6	Asiel	1 andere kat	Balkon	36	163	55	Vrouw	Twee personen	20,7	10	0	0	1
+Kruising/ander ras/onbekend	Gesteriliseerde poes	1,5	Ondergewicht	3	Aan komen lopen/gevonden	1 andere kat	Kat komt nooit binnenshuis	20	170	65	Vrouw	Meer dan twee personen	22,5	18,6	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,6	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	20	178	90	Vrouw	Meer dan twee personen	28,4	2,8	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	6,4	Overgewicht/Obesitas	7	Asiel	1 andere kat	Nee, alleen binnenshuis	24	175	93	Vrouw	Twee personen	30,4	2,5	1	1	1
+Gewone huiskat/Europese korthaar	Poes	4,8	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	50	190	86	Man	Meer dan twee personen	23,8	11,6	0	0	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	4,4	Ideaal gewicht	5	Zelf gefokt	1 andere kat	Kat komt nooit binnenshuis	23	187	67	Vrouw	Meer dan twee personen	19,2	9,7	0	0	0
+Gewone huiskat/Europese korthaar	Kater	5,5	Overgewicht/Obesitas	6	Gekregen (van bekenden)	1 andere kat	Kat komt nooit binnenshuis	53	170	60	Vrouw	Meer dan twee personen	20,8	10	0	1	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,6	Ideaal gewicht	5	Zelf gefokt	2 of meer andere katten	Ook buiten de tuin	19	163	60	Vrouw	Meer dan twee personen	22,6	9,5	0	0	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	4,1	Ideaal gewicht	4	Fokker van raskatten	Geen andere katten	Nee, alleen binnenshuis	18	173	56	Vrouw	Meer dan twee personen	18,7	7,4	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	7,9	Overgewicht/Obesitas	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	46	186	115	0	Twee personen	33,2	14,7	1	1	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	6	Overgewicht/Obesitas	7	Asiel	Geen andere katten	Eigen tuin of binnenplaats	14	183	59	Vrouw	Meer dan twee personen	17,6	5,1	0	1	1
+Kruising/ander ras/onbekend	Gesteriliseerde poes	4,5	Ideaal gewicht	5	Aan komen lopen/gevonden	1 andere kat	Kat komt nooit binnenshuis	20	170	65	Vrouw	Meer dan twee personen	22,5	8,3	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater													5			
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,1	Ideaal gewicht	5	Asiel	Geen andere katten	Ook buiten de tuin	18	170	66	Vrouw	Meer dan twee personen	22,8	7,2	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,5	Overgewicht/Obesitas	6	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	17	165	50	Vrouw	Meer dan twee personen	18,4	8,5	0	1	1
+Gewone huiskat/Europese korthaar	Kater	4,2	Ideaal gewicht	5	Zelf gefokt	2 of meer andere katten	Kat komt nooit binnenshuis	49	167	60	Vrouw	Meer dan twee personen	21,5	1,5	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,5	Overgewicht/Obesitas	6	Anders, namelijk ...	Geen andere katten	Ook buiten de tuin	50	172	68	Vrouw	Meer dan twee personen	23	6,7	0	1	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,9	Ideaal gewicht	4	Aan komen lopen/gevonden	1 andere kat	Ook buiten de tuin	48	168	85	Vrouw	Meer dan twee personen	30,1	3,5	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,2	Ideaal gewicht	5	Zelf gefokt	1 andere kat	Ook buiten de tuin	18	170	60	Vrouw	Meer dan twee personen	20,8	3,4	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	1,6	Ondergewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	18	170	69	Vrouw	Meer dan twee personen	23,9	0,6	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	6	Overgewicht/Obesitas	6	Gekregen (van bekenden)	2 of meer andere katten	Ook buiten de tuin	21	173	80	Vrouw	Meer dan twee personen	26,7	14,4	1	1	1
+Kruising/ander ras/onbekend	Poes	1,1	Ideaal gewicht	5	Asiel	Geen andere katten	Eigen tuin of binnenplaats	25	180	80	Man	Twee personen	24,7	0,3	0	0	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	4,7	Ideaal gewicht	6	Asiel	1 andere kat	Ook buiten de tuin	61	165	61	Vrouw	Twee personen	22,4	10	0	0	1
+Gewone huiskat/Europese korthaar	Poes	3,4	Ondergewicht	4	Gekregen (van bekenden)	2 of meer andere katten	Ook buiten de tuin	15	190	80	Man	Meer dan twee personen	22,2	1,6	0	0	0
+Gewone huiskat/Europese korthaar	Kater	5,4	Ideaal gewicht	4	Zelf gefokt	2 of meer andere katten	Ook buiten de tuin	19	181	84	Man	Meer dan twee personen	25,6	2,3	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,9	Overgewicht/Obesitas	7	Zelf gefokt	Geen andere katten	Ook buiten de tuin	19	176	60	Vrouw	Meer dan twee personen	19,4	7,5	0	1	1
+Kruising/ander ras/onbekend	Gesteriliseerde poes	4,4	Ideaal gewicht	4	Aan komen lopen/gevonden	2 of meer andere katten	Ook buiten de tuin	18	172	58	Vrouw	Meer dan twee personen	19,6	3,4	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,8	Ideaal gewicht	5	Asiel	Geen andere katten	Ook buiten de tuin	13	180	63	Vrouw	Meer dan twee personen	19,4	5	0	0	0
+Gewone huiskat/Europese korthaar	Poes	4,7	Ideaal gewicht	6	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	70	162	61	Vrouw	E‚n persoon	23,2	3,3	0	0	1
+Britse Korthaar	Gesteriliseerde poes	2,5	Ideaal gewicht	6	Aan komen lopen/gevonden	Geen andere katten	Ook buiten de tuin	36	167	70	Vrouw	Meer dan twee personen	25,1	6,4	1	0	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	5,1	Overgewicht/Obesitas	6	Asiel	Geen andere katten	Ook buiten de tuin	61	170	70	Man	Meer dan twee personen	24,2	9,2	0	1	1
+Maine Coon	Gesteriliseerde poes	5,5	Ideaal gewicht	5	Fokker van raskatten	1 andere kat	Balkon	18	171	59	Man	Meer dan twee personen	20,2	14,3	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	5,5	Overgewicht/Obesitas	7	Anders, namelijk ...	1 andere kat	Ook buiten de tuin	46	163	75	Vrouw	Meer dan twee personen	28,2	3,8	1	1	1
+Kruising/ander ras/onbekend	Gecastreerde kater	5,5	Ondergewicht	4	Asiel	2 of meer andere katten	Ook buiten de tuin	18	172	50	Vrouw	Meer dan twee personen	16,9	12,3	0	0	0
+Siamees	Gesteriliseerde poes	2,5	Weet niet/niet te bepalen	5	Anders, namelijk ...	1 andere kat	Ook buiten de tuin	19	188	70	Man	Meer dan twee personen	19,8	5,2	0	0	0
+Gewone huiskat/Europese korthaar	Poes	3,4	Ondergewicht	5	Asiel	Geen andere katten	Ook buiten de tuin	19	170	67	Vrouw	Meer dan twee personen	23,2	1,3	0	0	0
+Gewone huiskat/Europese korthaar	Poes	4	Ideaal gewicht	5	Aan komen lopen/gevonden	1 andere kat	Ook buiten de tuin	52	178	85	Man	E‚n persoon	26,8	2,4	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	3,5	Ideaal gewicht	5	Asiel	1 andere kat	Ook buiten de tuin	50	170	70	Vrouw	Meer dan twee personen	24,2	8,1	0	0	0
+Siamees	Gesteriliseerde poes	2,4	Ondergewicht	5	Gekregen (van bekenden)	2 of meer andere katten	Nee, alleen binnenshuis	47	180	75	Vrouw	Twee personen	23,1	5,7	0	0	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	3,4	Ondergewicht	7	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	18	172	66	Vrouw	Meer dan twee personen	22,3	9,5	0	0	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,3	Ideaal gewicht	5	Fokker van raskatten	1 andere kat	Ook buiten de tuin	51	176	67	Vrouw	Meer dan twee personen	21,6	6,2	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4	Ideaal gewicht	6	Asiel	Geen andere katten	Ook buiten de tuin	56	180	90	Vrouw	E‚n persoon	27,8	8	1	0	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,3	Ondergewicht	5	Asiel	Geen andere katten	Eigen tuin of binnenplaats	52	175	80	Vrouw	Meer dan twee personen	26,1	13	1	0	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	3,1	Ondergewicht	6	Zelf gefokt	2 of meer andere katten	Kat komt nooit binnenshuis	16	180	57	Man	Meer dan twee personen	17,6	7,3	0	0	1
+Kruising/ander ras/onbekend	Kater	5,1	Overgewicht/Obesitas	5	Gekregen (van bekenden)	1 andere kat	Nee, alleen binnenshuis	55	192	89	Man	Meer dan twee personen	24,1	2	0	1	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	2,9	Ondergewicht	4	Aan komen lopen/gevonden	Geen andere katten	Eigen tuin of binnenplaats	51	181	72	Vrouw	Meer dan twee personen	22	6,3	0	0	0
+Gewone huiskat/Europese korthaar	Kater	2,5	Ondergewicht	3	Aan komen lopen/gevonden	Geen andere katten	Kat komt nooit binnenshuis	59	176	90	Man	Meer dan twee personen	29,1	6,5	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	6,1	Overgewicht/Obesitas	5	Asiel	Geen andere katten	Balkon	18	172	53	Vrouw	Meer dan twee personen	17,9	7,2	0	1	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,7	Ideaal gewicht	5	Asiel	Geen andere katten	Ook buiten de tuin	54	165	68	Vrouw	Meer dan twee personen	25	3,6	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5	Overgewicht/Obesitas	6	Zelf gefokt	2 of meer andere katten	Ook buiten de tuin	18	180	76	Man	Meer dan twee personen	23,5	13,1	0	1	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	6,4	Overgewicht/Obesitas	7	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	57	185	83	Man	Twee personen	24,3	9,6	0	1	1
+Britse Korthaar	Gesteriliseerde poes	3,8	Ideaal gewicht	4	Asiel	1 andere kat	Eigen tuin of binnenplaats	26	174	66	Vrouw	Twee personen	21,8	3,8	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,5	Ideaal gewicht	7	Gekregen (van bekenden)	Geen andere katten	Eigen tuin of binnenplaats	49	164	63	Vrouw	Twee personen	23,4	15,2	0	0	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,5	Ideaal gewicht	5	Gekregen (van bekenden)	2 of meer andere katten	Kat komt nooit binnenshuis	16	180	65	Vrouw	Meer dan twee personen	20,1	3,2	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,1	Ideaal gewicht	6	Asiel	1 andere kat	Ook buiten de tuin	49	155	66	Vrouw	Meer dan twee personen	27,5	8,6	1	0	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	3,2	Ondergewicht	3	Aan komen lopen/gevonden	Geen andere katten	Ook buiten de tuin	27	183	95	Man	Twee personen	28,4	16,1	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	3,2	Ondergewicht	5	Asiel	1 andere kat	Ook buiten de tuin	58	180	80	Man	Twee personen	24,7	10,2	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,5	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	17	180	64	Vrouw	Meer dan twee personen	19,8	12,4	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,7	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	48	162	80	Vrouw	Meer dan twee personen	30,5	5,5	1	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,6	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	55	171	87	Vrouw	Twee personen	29,8	3,6	1	0	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	3,5	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	43	167	62	Vrouw	Meer dan twee personen	22,2	2,3	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,5	Ideaal gewicht	5	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	51	165	63	Vrouw	Meer dan twee personen	23,1	3,4	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,5	Ideaal gewicht	5	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	51	165	63	Vrouw	Meer dan twee personen	23,1	3,4	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,5	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	53	172	70	Vrouw	Meer dan twee personen	23,7	9,6	0	0	0
+Kruising/ander ras/onbekend	Kater	3,2	Ideaal gewicht	4	Aan komen lopen/gevonden	2 of meer andere katten	Kat komt nooit binnenshuis	60	183	82	Man	E‚n persoon	24,5	2	0	0	0
+Gewone huiskat/Europese korthaar	Poes	4	Ideaal gewicht	4	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	18	165	54	Vrouw	Meer dan twee personen	19,8	7	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,8	Ideaal gewicht	5	Asiel	Geen andere katten	Ook buiten de tuin	18	154	55	Vrouw	Meer dan twee personen	23,2	4,1	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	5	Overgewicht/Obesitas	7	Anders, namelijk ...	2 of meer andere katten	Kat komt nooit binnenshuis	62	182	85	Man	Meer dan twee personen	25,7	14	1	1	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4	Weet niet/niet te bepalen	4	Asiel	Geen andere katten	Ook buiten de tuin	18	163	70	Vrouw	Meer dan twee personen	26,3	2,2	1	0	0
+Kruising/ander ras/onbekend	Kater	2,2	Ondergewicht	5	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin					Twee personen		4,5		0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	6	Overgewicht/Obesitas	6	Aan komen lopen/gevonden	2 of meer andere katten	Nee, alleen binnenshuis	59	166	58	Vrouw	Meer dan twee personen	21	6	0	1	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,1	Ondergewicht	5	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	18	171	51	Vrouw	Meer dan twee personen	17,4	11,9	0	0	0
+Kruising/ander ras/onbekend	Gecastreerde kater	2	Ideaal gewicht	4	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	14	163	50	Vrouw	Meer dan twee personen	18,8	3,1	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	5	Ideaal gewicht	5	Fokker van raskatten	1 andere kat	Ook buiten de tuin	50	164	56	Vrouw	Meer dan twee personen	20,8	3,8	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,9	Ideaal gewicht	4	Gekregen (van bekenden)	1 andere kat	Kat komt nooit binnenshuis	54	169	68	Vrouw	Twee personen	23,8	5	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,4	Ideaal gewicht	6	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	66	179	86	Man	Meer dan twee personen	26,8	8,3	1	0	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,5	Ideaal gewicht	4	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	20	161	48	Vrouw	Meer dan twee personen	18,5	9	0	0	0
+Kruising/ander ras/onbekend	Gecastreerde kater	5	Overgewicht/Obesitas	5	Gekregen (van bekenden)	2 of meer andere katten	Ook buiten de tuin	19	173	68	Vrouw	Meer dan twee personen	22,7	3,5	0	1	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	3,5	Ideaal gewicht	6	Fokker van raskatten	1 andere kat	Nee, alleen binnenshuis	60	156	74	Vrouw	Twee personen	30,4	4,3	1	0	1
+Kruising/ander ras/onbekend	Gecastreerde kater	4,6	Ideaal gewicht	4	Fokker van raskatten	Geen andere katten	Eigen tuin of binnenplaats	47	168	54	Vrouw	Meer dan twee personen	19,1	11,5	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	2,5	Ondergewicht	3	Asiel	2 of meer andere katten	Ook buiten de tuin	43	180	75	Vrouw	Meer dan twee personen	23,1	11	0	0	0
+Kruising/ander ras/onbekend	Kater	2,4	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	12	160	0	Man	Meer dan twee personen		0,3		0	0
+Kruising/ander ras/onbekend	Poes	2	Ideaal gewicht	4	Gekregen (van bekenden)	2 of meer andere katten	Kat komt nooit binnenshuis	15	155	44	Vrouw	Meer dan twee personen	18,3	2	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,2	Overgewicht/Obesitas	7	Anders, namelijk ...	Geen andere katten	Eigen tuin of binnenplaats	18	170	62	Vrouw	Meer dan twee personen	21,5	9,4	0	1	1
+Kruising/ander ras/onbekend	Gesteriliseerde poes	1,7	Ondergewicht	3	Asiel	1 andere kat	Ook buiten de tuin	17	187	70	Man	Meer dan twee personen	20	15	0	0	0
+Britse Korthaar	Kater	5,5	Overgewicht/Obesitas	7	Fokker van raskatten	1 andere kat	Ook buiten de tuin	20	174	65	Vrouw	Meer dan twee personen	21,5	6,2	0	1	1
+Kruising/ander ras/onbekend	Gesteriliseerde poes	4	Ideaal gewicht	4	Asiel	1 andere kat	Eigen tuin of binnenplaats	18	169	69	Vrouw	Meer dan twee personen	24,2	2,5	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	3,9	Ideaal gewicht	6	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	40	168	161	Vrouw	Twee personen	57	4,1	1	0	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4	Ideaal gewicht	5	Asiel	1 andere kat	Ook buiten de tuin	18	174	75	Vrouw	Meer dan twee personen	24,8	14	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3	Ondergewicht	3	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	18	173	64	Vrouw	Meer dan twee personen	21,4	3,5	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	3,8	Ideaal gewicht	3	Zelf gefokt	2 of meer andere katten	Ook buiten de tuin	61	168	58	Vrouw	Meer dan twee personen	20,5	5,2	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	5,1	Overgewicht/Obesitas	6	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	48	181	80	Man	Meer dan twee personen	24,4	9	0	1	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,5	Overgewicht/Obesitas	6	Asiel	Geen andere katten	Ook buiten de tuin	54	186	65	Man	Meer dan twee personen	18,8	4,3	0	1	1
+Pers	Gecastreerde kater	5	Ideaal gewicht	5	Fokker van raskatten	Geen andere katten	Balkon	40	160	52	Vrouw	Meer dan twee personen	20,3	6	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,5	Overgewicht/Obesitas	7	Asiel	1 andere kat	Ook buiten de tuin	20	180	68	Vrouw	Meer dan twee personen	21	1,5	0	1	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	3,5	Ideaal gewicht	5	Asiel	Geen andere katten	Eigen tuin of binnenplaats	31	185	82	Man	Twee personen	24	6,3	0	0	0
+Britse Korthaar	Gesteriliseerde poes	4,7	Ideaal gewicht	5	Asiel	2 of meer andere katten	Ook buiten de tuin	19	168	60	Vrouw	Meer dan twee personen	21,3	10,2	0	0	0
+Gewone huiskat/Europese korthaar	Poes	3,1	Ideaal gewicht	5	Aan komen lopen/gevonden	Geen andere katten	Ook buiten de tuin	23	160	48	Vrouw	Meer dan twee personen	18,8	2	0	0	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	3,1	Ideaal gewicht	4	Asiel	2 of meer andere katten	Ook buiten de tuin	18	171	73	Vrouw	Meer dan twee personen	25	2	0	0	0
+Kruising/ander ras/onbekend	Kater	5,1	Ideaal gewicht	5	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	22	176	74	Man	Meer dan twee personen	23,9	4,1	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	1,1	Ideaal gewicht	5	Asiel	Geen andere katten	Eigen tuin of binnenplaats	18	180	70	Vrouw	Twee personen	21,6	7	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3	Ondergewicht	4	Asiel	1 andere kat	Ook buiten de tuin	51	175	67	Vrouw	Meer dan twee personen	21,9	7,4	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,9	Ideaal gewicht	5	Anders, namelijk ...	2 of meer andere katten	Ook buiten de tuin							1		0	0
+Gewone huiskat/Europese korthaar	Poes	8	Ideaal gewicht	4	Aan komen lopen/gevonden	Geen andere katten	Ook buiten de tuin	47	174	60	Vrouw	Meer dan twee personen	19,8	6	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,7	Overgewicht/Obesitas	7	Gekregen (van bekenden)	Geen andere katten	Balkon	46	169	81	Vrouw	E‚n persoon	28,4	9,6	1	1	1
+Pers	Gesteriliseerde poes	4,1	Ondergewicht	4	Gekregen (van bekenden)	Geen andere katten	Eigen tuin of binnenplaats	54	178	78	Man	Meer dan twee personen	24,6	7	0	0	0
+Kruising/ander ras/onbekend	Kater	4,3	Ideaal gewicht	6	Zelf gefokt	2 of meer andere katten	Ook buiten de tuin	46	191	130	Man	Twee personen	35,6	2,4	1	0	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,9	Overgewicht/Obesitas	3	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	18	167	52	Vrouw	Meer dan twee personen	18,6	5,3	0	1	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	6,2	Overgewicht/Obesitas	7	Gekregen (van bekenden)	2 of meer andere katten	Ook buiten de tuin	22	174	76	Vrouw	Meer dan twee personen	25,1	11,3	1	1	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5	Overgewicht/Obesitas	5	Asiel	Geen andere katten	Ook buiten de tuin	28	160	54	Vrouw	Meer dan twee personen	21,1	7	0	1	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,9	Ideaal gewicht	4	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	19	170	72	Vrouw	Meer dan twee personen	24,9	14,2	0	0	0
+Kruising/ander ras/onbekend	Gecastreerde kater	3,4	Ondergewicht	4	Zelf gefokt	Geen andere katten	Ook buiten de tuin	56	169	65	Vrouw	Meer dan twee personen	22,8	15,3	0	0	0
+Kruising/ander ras/onbekend	Poes	2,8	Ideaal gewicht	5	Fokker van raskatten	1 andere kat	Balkon	22	174	61	Vrouw	Twee personen	20,1	3,4	0	0	0
+Kruising/ander ras/onbekend	Poes	3,1	Ideaal gewicht	5	Fokker van raskatten	1 andere kat	Balkon	22	174	61	Vrouw	Twee personen	20,1	3,4	0	0	0
+Kruising/ander ras/onbekend	Gecastreerde kater	4,5	Ideaal gewicht	4	Aan komen lopen/gevonden	Geen andere katten	Ook buiten de tuin	58	183	75	Man	Twee personen	22,4	10,6	0	0	0
+Maine Coon	Poes	4	Ideaal gewicht	5	Fokker van raskatten	2 of meer andere katten	Ook buiten de tuin	18	178	70	Vrouw	Meer dan twee personen	22,1	5,3	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	8,4	Overgewicht/Obesitas	7	Aan komen lopen/gevonden	1 andere kat	Ook buiten de tuin	36	163	56	Vrouw	Twee personen	21,1	7	0	1	1
+Maine Coon	Gesteriliseerde poes	5,4	Ideaal gewicht	5	Zelf gefokt	2 of meer andere katten	Eigen tuin of binnenplaats	71	158	44	Vrouw	Twee personen	17,6	4,3	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,5	Ideaal gewicht	4	Anders, namelijk ...	Geen andere katten	Ook buiten de tuin	18	176	63	Vrouw	Meer dan twee personen	20,3	9,4	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	5,1	Overgewicht/Obesitas	8	Gekregen (van bekenden)	2 of meer andere katten	Ook buiten de tuin	21	173	51	Vrouw	Meer dan twee personen	17	7,6	0	1	1
+Gewone huiskat/Europese korthaar	Poes	2,5	Weet niet/niet te bepalen	5	Anders, namelijk ...	Geen andere katten	Ook buiten de tuin	20	179	70	Man	Twee personen	21,8	2	0	0	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	5	Weet niet/niet te bepalen	5	Aan komen lopen/gevonden	1 andere kat	Ook buiten de tuin	20	168	57	Vrouw	Meer dan twee personen	20,2	9,1	0	0	0
+Gewone huiskat/Europese korthaar	Poes	4,3	Ideaal gewicht	5	Gekregen (van bekenden)	Geen andere katten	Kat komt nooit binnenshuis	85	156	63	Vrouw	Twee personen	25,9	12	1	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	3,3	Ideaal gewicht	5	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	19	174	70	Man	Twee personen	23,1	15,5	0	0	0
+Kruising/ander ras/onbekend	Gesteriliseerde poes	3,5	Ideaal gewicht	4	Anders, namelijk ...	2 of meer andere katten	Ook buiten de tuin	15	170	61	Vrouw	Meer dan twee personen	21,1	4	0	0	0
+Kruising/ander ras/onbekend	Kater													3			
+Gewone huiskat/Europese korthaar	Poes	2,6	Ondergewicht	3	Anders, namelijk ...	Geen andere katten	Ook buiten de tuin	16	176	73	Vrouw	Meer dan twee personen	23,6	2,2	0	0	0
+Gewone huiskat/Europese korthaar	Poes	0,9	Ideaal gewicht	4	Anders, namelijk ...	1 andere kat	Ook buiten de tuin	22	168	64	Man	Twee personen	22,7	0,4	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,1	Ideaal gewicht	4	Asiel	Geen andere katten	Ook buiten de tuin	14	170	56	Vrouw	Meer dan twee personen	19,4	4,3	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	5	Overgewicht/Obesitas	6	Asiel	Geen andere katten	Eigen tuin of binnenplaats	52	178	90	Vrouw	Meer dan twee personen	28,4	14,4	1	1	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,6	Ideaal gewicht	6	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	52	174	69	Vrouw	Meer dan twee personen	22,8	7,4	0	0	1
+Gewone huiskat/Europese korthaar	Poes	1,2	Ideaal gewicht	4	Zelf gefokt	2 of meer andere katten	Kat komt nooit binnenshuis	17	186	75	Man	Meer dan twee personen	21,7	0,3	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,1	Ideaal gewicht	5	Asiel	Geen andere katten	Ook buiten de tuin	54	176	70	Vrouw	Meer dan twee personen	22,6	9,1	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,1	Ideaal gewicht	5	Anders, namelijk ...	Geen andere katten	Ook buiten de tuin	18	168	58	Vrouw	Meer dan twee personen	20,5	8,4	0	0	0
+Gewone huiskat/Europese korthaar	Poes	3,2	Ondergewicht	5	Gekregen (van bekenden)	2 of meer andere katten	Kat komt nooit binnenshuis	56	196	110	Man	Twee personen	28,6	3,4	1	0	0
+Kruising/ander ras/onbekend	Gecastreerde kater	5	Weet niet/niet te bepalen	6	Aan komen lopen/gevonden	Geen andere katten	Kat komt nooit binnenshuis	57	178	75	Man	Meer dan twee personen	23,7	7	0	0	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,5	Overgewicht/Obesitas	6	Anders, namelijk ...	1 andere kat	Ook buiten de tuin	50	186	68	Vrouw	Meer dan twee personen	19,7	10	0	1	1
+Gewone huiskat/Europese korthaar	Kater	4	Ondergewicht	3	Gekregen (van bekenden)	Geen andere katten	Kat komt nooit binnenshuis	18	184	72	Vrouw	Meer dan twee personen	21,3	12	0	0	0
+Kruising/ander ras/onbekend	Gecastreerde kater	4	Ideaal gewicht	5	Asiel	Geen andere katten	Eigen tuin of binnenplaats	18	176	61	Vrouw	Meer dan twee personen	19,7	17,5	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5	Overgewicht/Obesitas	6	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	18	175	56	Vrouw	Meer dan twee personen	18,3	8	0	1	1
+Kruising/ander ras/onbekend	Poes	4,2	Overgewicht/Obesitas	7	Asiel	Geen andere katten	Ook buiten de tuin	56	173	102	Man	Meer dan twee personen	34,1	10,2	1	1	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	5,5	Overgewicht/Obesitas	5	Gekregen (van bekenden)	1 andere kat	Eigen tuin of binnenplaats	28	175	85	Vrouw	Twee personen	27,8	5,1	1	1	0
+Kruising/ander ras/onbekend	Kater	2,5	Ondergewicht	3	Gekregen (van bekenden)	Geen andere katten	Nee, alleen binnenshuis	24	175	70	Vrouw	E‚n persoon	22,9	0,5	0	0	0
+Gewone huiskat/Europese korthaar	Poes	3,5	Ondergewicht	3	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	17	184	78	Man	Meer dan twee personen	23	18,4	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	2,2	Ideaal gewicht	5	Anders, namelijk ...	1 andere kat	Nee, alleen binnenshuis	24	173	62	Vrouw	Twee personen	20,7	0,5	0	0	0
+Kruising/ander ras/onbekend	Poes	5,5	Ideaal gewicht	5	Asiel	Geen andere katten	Eigen tuin of binnenplaats	19	175	60	Vrouw	Meer dan twee personen	19,6	5	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,4	Ideaal gewicht	5	Asiel	Geen andere katten	Ook buiten de tuin	19	169	58	Vrouw	Meer dan twee personen	20,3	6,4	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	4,7	Ideaal gewicht	5	Anders, namelijk ...	1 andere kat	Ook buiten de tuin	32	182	75	Man	Twee personen	22,6	1,9	0	0	0
+Kruising/ander ras/onbekend	Gecastreerde kater	4,7	Ideaal gewicht	5	Gekregen (van bekenden)	2 of meer andere katten	Balkon	18	165	60	Vrouw	Meer dan twee personen	22	3,7	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	3,6	Weet niet/niet te bepalen	4	Anders, namelijk ...	Geen andere katten	Nee, alleen binnenshuis	56	158	80	Vrouw	Meer dan twee personen	32	3	1	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4	Weet niet/niet te bepalen	6	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	55	160	65	Vrouw	Twee personen	25,4	15	1	0	1
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,8	Ideaal gewicht	5	Asiel	1 andere kat	Eigen tuin of binnenplaats	24	171	52	Vrouw	E‚n persoon	17,8	2,8	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	4,7	Ideaal gewicht	7	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	53	170	87	Vrouw	Meer dan twee personen	30,1	13,3	1	0	1
+Kruising/ander ras/onbekend	Gecastreerde kater	4	Ideaal gewicht	5	Asiel	Geen andere katten	Eigen tuin of binnenplaats	18	176	61	Vrouw	Meer dan twee personen	19,7	17,5	0	0	0
+Gewone huiskat/Europese korthaar	Kater	1,7	Ideaal gewicht	5	Aan komen lopen/gevonden	2 of meer andere katten	Kat komt nooit binnenshuis	19	178	59	Vrouw	Meer dan twee personen	18,6	2,3	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	6,5	Overgewicht/Obesitas	5	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	42	172	67	Vrouw	Meer dan twee personen	22,6	6,3	0	1	0
+Gewone huiskat/Europese korthaar	Poes	3,3	Ondergewicht	4	Gekregen (van bekenden)	1 andere kat	Nee, alleen binnenshuis	34	175	95	Vrouw	Twee personen	31	1,3	1	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	2,7	Ondergewicht	5	Aan komen lopen/gevonden	Geen andere katten	Ook buiten de tuin	20	182	72	Vrouw	Meer dan twee personen	21,7	18,3	0	0	0
+Gewone huiskat/Europese korthaar	Poes	3	Weet niet/niet te bepalen	4	Gekregen (van bekenden)	Geen andere katten	Ook buiten de tuin	27	180	76	Man	Twee personen	23,5	0,3	0	0	0
+Gewone huiskat/Europese korthaar	Gecastreerde kater	3,6	Ondergewicht	4	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	20	168	55	Vrouw	Meer dan twee personen	19,5	17,2	0	0	0
+Gewone huiskat/Europese korthaar	Gesteriliseerde poes	9,6	Weet niet/niet te bepalen	6	Gekregen (van bekenden)	1 andere kat	Ook buiten de tuin	46	180	101	Man	Meer dan twee personen	31,2	17	1	0	1
+Gewone huiskat/Europese korthaar	Gecastreerde kater	2,5	Ondergewicht	4	Asiel	1 andere kat	Ook buiten de tuin	35	160	55	Vrouw	Meer dan twee personen	21,5	19	0	0	0
