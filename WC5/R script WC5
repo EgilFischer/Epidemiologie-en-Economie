@@ -1,0 +1,20 @@
+#WC5
+# De datafile uit het boek is niet beschikbaar. We gebruiken een voorbeeld over doofheid bij dalmatiers.
+# Zie opgave 1 voor een beschrijving van deze data.
+# Dit is een zogeheten "comma separated values (csv)" bestand wat wil zeggen dat de getallen met 
+# komma's van elkaar gescheiden worden.
+# Tools-Import Dataset - From text File... kies dalmatian.csv
+attach(dalmatian)
+table(deaf,spot)
+# om een logistische regressie te doen gebruiken we ook de glm functie maar nu met family=binomial
+# dat hoefde bij de normale verdeling niet want die verdeling is default in de glm functie
+fit=glm(deaf~factor(spot),family=binomial)
+summary(fit)
+# dus de deaf log-odds ratio voor spot groep 2 vs spot groep 1 is -.6496 met een 
+# standard error van 0.6497, en de log-odds ratio voor spot groep 3 vs spot groep 1 is -.9181 met een 
+# standard error van 0.3136
+# Betrouwbaarheidsintervallen gebaseerd op de Wald test krijg je door
+confint.default(fit)
+# De functie confint geeft zg profile likelihood intervallen die in de regel beter zijn (voor de normale verdeling zijn deze het zelfde)
+confint(fit)
+detach(dalmatian)
