@@ -1,0 +1,65 @@
+# WC2
+# Tools-Import Dataset - From text File... kies Table10.1.txt 
+#
+attach(Table10.1)
+# de scatterplot, pch staat voor pointcharacter, als je het nummer verandert 
+# krijg je andere symbolen
+plot(wBAP,PICP,pch=20,col="red")
+?cor # helpinformatie
+?cor.test # helpinformatie
+cor.test(wBAP,PICP)
+detach(Table10.1)
+####
+# Tools-Import Dataset - From text File... kies Table10.2.txt 
+#
+attach(Table10.2)
+# de scatterplot xlab en ylab geven de labels op de assen
+plot(chestgth,livewt,xlab="Chest girth (cm)",ylab="Live weight (kg)",pch=20,col="red")
+?glm # helpinformatie
+fit=glm(livewt~chestgth, family="gaussian")
+summary(fit)
+# In de kolom Estimate staan de intercept (Intercept) en de slope (chestgth). 
+# In de kolom Std.Error staan de standard errors. 
+# In de volgende kolom staan de t-toetsen daarna de p-waardes (Pr(>|t|)). 
+# Vergelijk met display 10.1 op blz 136 van het boek
+#
+# om de lijn in de scatterplot toe te voegen:
+?abline # helpinformatie
+abline(fit,col="blue")
+# of
+abline(a=-46.041,b=1.043,col="blue")
+# Om R^2 (kwadraat van de correlatie) uit te rekenen:
+1-(fit$deviance/fit$null.deviance)
+# of
+(cor(livewt,predict(fit)))^2
+# voor predict(fit) zie hieronder
+# 95% Betrouwbaarheids intervallen voor de intercept en de slope:
+confint(fit)
+#############
+# Om  de kwadraatsommen te krijgen gebruiken we drop1. 
+drop1(fit,test="F")
+# Deze functie fit (schat) meerdere modellen door steeds 1 variabele uit het model weg te laten en 
+# geeft residu kwadraatsommen van die modellen. In dit geval: 
+# 1.) een model met het intercept en livewt. Dit is het volledige model. Er gaat dan dus 
+# geen variabele er uit dus drop is dan none. Dit is de eerste regel. De residu kwadraatsom is 452.3.
+# 2.) een model waaruit chestgth is weggelaten, dus een model met 1 constante erin. 
+# De residukwadraatsom van dit model is SS-totaal. Hier zitten de effecten van chestgth nog in, omdat chestgth weggelaten is uit het model. 
+# Dus in de res. kwadraatsom uit de eerste regel zitten geen chestgth effecten meer, in de residu kwadraatsom
+#uit de tweede regel nog wel. Het verschil geeft dus de regressie kwadraatsom. 
+# Nu is de anova tabel te maken. Zie ook Display 10.1 op blz 136 (P&W).
+#
+# De residuen en de predicted values (de punten op de lijn) krijg je door
+residuals(fit)
+predict(fit)
+# dus figuur 10.8a en c krijg je met
+plot(chestgth,residuals(fit),xlab="Chest girth (cm)",ylab="Residuals (kg)",pch=20,col="red")
+plot(predict(fit),residuals(fit),xlab="Predicted values (cm)",ylab="Residuals (kg)",pch=20,col="red")
+#
+# Om te zien of er afwijkingen zijn van de normaliteit gebruiken we een normal probability plot. 
+# Deze plot residuen tegen wat verwacht mag worden als de residuen normaal verdeeld zouden zijn.
+# Als de residuen uit een normale verdeling komen zal dus deze plot punten laten zien,
+# die op een rechte lijn liggen,
+qqnorm(residuals(fit))
+abline(0,sd(residuals(fit)))
+#
+detach(Table10.2)
